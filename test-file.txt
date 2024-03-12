@@ -1,0 +1,4 @@
+Test file to practice GitHub workflow
+
+Following Microsoft Learning module "Introduction to GitHub"
+https://learn.microsoft.com/en-us/training/modules/introduction-to-github/
